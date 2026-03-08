@@ -177,6 +177,8 @@ and business growth trends.
 </div>
 dashboards: <img width="1135" height="660" alt="edcc2e57eff0471d1e8a734dc08c006e" src="https://github.com/user-attachments/assets/60f1120d-da0c-4037-889e-eb0f06fd0d01" />
 
+<img width="1344" height="579" alt="6ec6fa0ba326499aacaf1701c10caf1a" src="https://github.com/user-attachments/assets/38f4c039-73a9-4438-8698-306fe8c452a0" />
+
 <div class="project">
 <h3>Marketing Campaign Analysis</h3>
 <p>
