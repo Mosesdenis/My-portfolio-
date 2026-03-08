@@ -161,8 +161,8 @@ using SQL, Excel and Tableau.
 <div class="project">
 <h3>Customer Churn Analysis</h3>
 <p>
-Analyzed telecom customer data to identify factors affecting churn and built
-a dashboard for churn prediction insights.
+Analyzed telecom customer data to identify factors affecting churn, built
+a dashboard for churn prediction insights, present the insight and give a valid recommendations to ace the bussiness goals.
 </p>
 </div>
 
@@ -194,7 +194,7 @@ Used Python and Excel to evaluate marketing campaign performance and ROI.
 
 <h2>Contact</h2>
 
-<p>Email: youremail@email.com</p>
+<p>Email: Mosesdenis50@gmail.com@email.com</p>
 <p>GitHub: github.com/mosesdenis</p>
 <p>LinkedIn: linkedin.com/in/mosesdenis</p>
 
