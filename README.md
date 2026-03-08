@@ -87,6 +87,7 @@ background:#1e293b;
 padding:20px;
 border-radius:10px;
 }
+dashboard: <img width="1135" height="660" alt="edcc2e57eff0471d1e8a734dc08c006e" src="https://github.com/user-attachments/assets/31c3e8bd-a0cd-4101-8185-6adea65416dc" />
 
 footer{
 text-align:center;
