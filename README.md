@@ -144,7 +144,7 @@ using SQL, Excel and Tableau.
 <div class="skill">Tableau</div>
 <div class="skill">Data Cleaning</div>
 <div class="skill">Data Visualization</div>
-<div class="skill">Data Vidation</div>
+<div class="skill">Data Validation</div>
 
 </div>
 
