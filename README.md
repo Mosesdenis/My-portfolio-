@@ -118,7 +118,7 @@ margin-top:40px;
 <section class="hero">
 
 <div class="hero-text">
-
+Logo: 
 <h2>Hello, I'm <span>Moses Denis</span></h2>
 
 <p>
