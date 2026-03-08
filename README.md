@@ -87,7 +87,6 @@ background:#1e293b;
 padding:20px;
 border-radius:10px;
 }
-dashboard: <img width="1135" height="660" alt="edcc2e57eff0471d1e8a734dc08c006e" src="https://github.com/user-attachments/assets/31c3e8bd-a0cd-4101-8185-6adea65416dc" />
 
 footer{
 text-align:center;
@@ -176,6 +175,8 @@ Built an interactive Tableau dashboard analyzing regional sales performance
 and business growth trends.
 </p>
 </div>
+dashboards: <img width="1135" height="660" alt="edcc2e57eff0471d1e8a734dc08c006e" src="https://github.com/user-attachments/assets/60f1120d-da0c-4037-889e-eb0f06fd0d01" />
+
 
 
 <div class="project">
