@@ -176,6 +176,8 @@ and business growth trends.
 </p>
 </div>
 dashboards: <img width="1135" height="660" alt="edcc2e57eff0471d1e8a734dc08c006e" src="https://github.com/user-attachments/assets/60f1120d-da0c-4037-889e-eb0f06fd0d01" />
+<img width="1135" height="660" alt="edcc2e57eff0471d1e8a734dc08c006e" src="https://github.com/user-attachments/assets/1393da2d-3d33-4209-85a6-e14829868777" />
+
 
 
 
