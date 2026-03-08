@@ -1,8 +1,7 @@
-# Moses Denis-
-<!DOCTYPE html>
+# Moses Denis
+
 <html lang="en">
-<head>
-  logo: 
+<head> 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Moses Denis | Data Analyst</title>
