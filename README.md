@@ -142,11 +142,9 @@ using SQL, Excel and Tableau.
 <div class="skill">Excel</div>
 <div class="skill">SQL</div>
 <div class="skill">Tableau</div>
-<div class="skill">Power BI</div>
-<div class="skill">Python</div>
 <div class="skill">Data Cleaning</div>
 <div class="skill">Data Visualization</div>
-<div class="skill">EDA</div>
+<div class="skill">Data Vidation</div>
 
 </div>
 
