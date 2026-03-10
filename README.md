@@ -161,8 +161,23 @@ using SQL, Excel and Tableau.
 <div class="project">
 <h3>Customer Churn Analysis</h3>
 <p>
-Analyzed telecom customer data to identify factors affecting churn, built
+Analyzed 7000+ telecom customer data using Excel, SQL, Tableau to identify factors affecting churn, clean the dataset by removing dublicated, creating new and neccesary columns, analysing te dataset and built
 a dashboard for churn prediction insights, present the insight and give a valid recommendations to ace the bussiness goals.
+
+A company is losing customers and does not know why, who or how much money is at risk.
+
+my job as a data analyst is to:
+find who is leaving
+understand why
+show how it affects revenue
+give data-driven recommendations
+
+Raw dataset
+
+
+
+
+
 </p>
 </div>
 
@@ -174,9 +189,6 @@ Built an interactive Tableau dashboard analyzing regional sales performance
 and business growth trends.
 </p>
 </div>
-dashboards: <img width="1135" height="660" alt="edcc2e57eff0471d1e8a734dc08c006e" src="https://github.com/user-attachments/assets/60f1120d-da0c-4037-889e-eb0f06fd0d01" />
-
-<img width="1344" height="579" alt="6ec6fa0ba326499aacaf1701c10caf1a" src="https://github.com/user-attachments/assets/38f4c039-73a9-4438-8698-306fe8c452a0" />
 
 <div class="project">
 <h3>Marketing Campaign Analysis</h3>
