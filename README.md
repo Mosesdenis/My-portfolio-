@@ -191,13 +191,6 @@ CHURN DASHBOARD
 <img width="1526" height="1059" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/8d20e81d-e3b9-4085-8696-9292587642ad" />
 <img width="736" height="627" alt="churn data insight" src="https://github.com/user-attachments/assets/a2f30c4b-ed4f-45d4-83fd-ef2e02ac0d2d" />
 
-
-
-
-
-
-
-
 </p>
 </div>
 
