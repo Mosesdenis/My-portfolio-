@@ -178,6 +178,9 @@ RAW DATASET
 <img width="1495" height="593" alt="raw data 1" src="https://github.com/user-attachments/assets/84808ef7-2552-4cf5-9e28-3376fd32f9fb" />
 CLEAN DATASET
 <img width="1501" height="596" alt="clean churn data " src="https://github.com/user-attachments/assets/7c51a508-0de1-4e00-bda8-f7b2e2d5cf6d" />
+CHURN SQL QUERY
+<img width="438" height="316" alt="churn sql nwork" src="https://github.com/user-attachments/assets/99393e66-d580-495c-a6e2-45f8445459e1" />
+
 CHURN DASHBOARD LINK: https://public.tableau.com/views/Book1_17464377135490/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 CHURN DASHBOARD
 <img width="1526" height="1059" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/8d20e81d-e3b9-4085-8696-9292587642ad" />
