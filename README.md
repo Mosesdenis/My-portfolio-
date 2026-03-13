@@ -145,6 +145,8 @@ using SQL, Excel and Tableau.
 <div class="skill">Data Cleaning</div>
 <div class="skill">Data Visualization</div>
 <div class="skill">Data Validation</div>
+<div class="skill">Power Query</div>
+<div class="skill">Data Automation</div>
 
 </div>
 
