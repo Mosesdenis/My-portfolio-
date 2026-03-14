@@ -200,22 +200,11 @@ CHURN DASHBOARD
 <h3>Sales Dashboard</h3><p>
 Built an interactive Tableau dashboard analyzing regional sales performance
 and business growth trends.
-[table preview](images/ADIDAS WORKSHEET.png)
  
 </p>
 </div>
 
-<div class="project">
-<h3>Marketing Campaign Analysis</h3>
-<p>
-Used Python and Excel to evaluate marketing campaign performance and ROI.
-</p>
-</div>
 
-
-</div>
-
-</section>
 
 
 
