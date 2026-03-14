@@ -196,10 +196,11 @@ CHURN DASHBOARD
 
 
 <div class="project">
+ **project 2**
 <h3>Sales Dashboard</h3><p>
 Built an interactive Tableau dashboard analyzing regional sales performance
 and business growth trends.
-
+[table preview](images/ADIDAS WORKSHEET.png)
  
 </p>
 </div>
